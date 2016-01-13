@@ -1,0 +1,9 @@
+Loading data...
+Transform data...
+The shape of dt matrix is (1, 68411)
+
+Dimension reduction...
+The shape of dt matrix is (1, 1000) (after dimension reduction)
+
+Accuracy = 100% (1/1) (classification)
+Old media
