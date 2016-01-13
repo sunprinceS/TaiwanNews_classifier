@@ -23,8 +23,9 @@ New or Old ? Who are you?
 ![](http://i.imgur.com/FtgH93T.png)
 
 
-
 * 範例結果
-![](http://i.imgur.com/mzgi6WP.png)
+	* 新舊媒體的二元預測會顯示於圖表標題
+	* 以字頻分布的相似度，對六家媒體作預測的結果以長條圖顯示
+	![](http://i.imgur.com/mzgi6WP.png)
 
 Enjoy it :smile:
