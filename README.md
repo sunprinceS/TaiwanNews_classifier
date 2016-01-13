@@ -1,7 +1,8 @@
 New or Old ? Who are you?
 ===
-## 新舊媒體分類器(Group1)
+## 新舊媒體分類器
 * More Info : 請參閱繳交的html檔
+
 ## 如何執行
 * Prerequisities:
 	* ipython2
@@ -28,4 +29,4 @@ New or Old ? Who are you?
 	* 以字頻分布的相似度，對六家媒體作預測的結果以長條圖顯示
 	![](http://i.imgur.com/mzgi6WP.png)
 
-Enjoy it :smile:
+We are Group1 ! Enjoy it :smile:
