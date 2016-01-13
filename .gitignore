@@ -1,7 +1,5 @@
-misc_data/*
 cut/*
 data/*
-output/*
 temp/*
 src/libsvm/*
 !src/libsvm/python
